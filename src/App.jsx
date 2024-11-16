@@ -18,4 +18,4 @@ function App() {
 
 export default App
 
-<>its nt a vue.js ttgberpfiotwyjghfgjiogeg b iy bvttefhj setrpgihbbn dxfkjgtnawp9uvygbn oghawrp9s8gvyhdfs980og 
+<>its nt a vue.js ttgberpfiotwyjghfgjiogeg b iy bvttefhj setrpgihbbn 
